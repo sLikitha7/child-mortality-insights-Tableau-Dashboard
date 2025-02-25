@@ -2,7 +2,7 @@ Overview:
 
 This project explores global neonatal mortality trends using Tableau visualizations based on World Bank Development Indicators. It highlights the correlation between economic growth (GDP per capita) and neonatal death rates, providing valuable insights for health policymakers, researchers, and data enthusiasts.
 
-🔍 Key Features
+Key Features
 
 ✅ Global Neonatal Mortality Dashboard – Visualizes neonatal deaths over time with interactive filtering.
 ✅ Economic Growth vs. Child Mortality – Explores how increasing GDP impacts neonatal survival rates.
