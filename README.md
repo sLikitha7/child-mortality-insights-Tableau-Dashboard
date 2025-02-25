@@ -12,21 +12,29 @@ This project explores global neonatal mortality trends using Tableau visualizati
 Files Included
 
 NeonatalMortalityAnalysis.twbx – Tableau Packaged Workbook with all dashboards.
+
 nations.csv – Source dataset containing neonatal mortality rates, GDP, and population data.
+
 Global Neonatal Mortality Dashboard.jpg – Snapshot of the main visualization.
+
 Neonatal Mortality vs. Economic Growth.jpg – Insights into GDP and mortality correlation.
+
 Turkey’s Journey in Neonatal Health.jpg – Storyboard focusing on Turkey’s neonatal health improvements.
 
 Tools Used
 
 Tableau – Data visualization and dashboard creation.
+
 Excel/CSV – Data preprocessing.
+
 World Bank Data – Source for neonatal mortality and GDP statistics.
 
 How to Use
 
 Download the .twbx file.
+
 Open it in Tableau Desktop.
+
 Interact with filters and visualizations to explore insights.
 
 Insights
@@ -43,5 +51,3 @@ Future Scope
 
 Why This Matters
 Understanding child mortality trends is crucial for policymakers and organizations working on global health initiatives. This project aims to provide data-driven insights to help drive action towards reducing infant mortality worldwide.
-
-🚀 Explore the dashboards and uncover key insights into neonatal health!
