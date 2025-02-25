@@ -25,19 +25,15 @@ Turkey’s Journey in Neonatal Health.jpg – Storyboard focusing on Turkey’s 
 
 Tools Used
 
-Tableau – Data visualization and dashboard creation.
-
+Tableau – Data visualization and dashboard creation
 Excel/CSV – Data preprocessing.
-
 World Bank Data – Source for neonatal mortality and GDP statistics.
 
 
 How to Use
 
 Download the .twbx file.
-
 Open it in Tableau Desktop.
-
 Interact with filters and visualizations to explore insights.
 
 
